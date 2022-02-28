@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches of the Right Honourable William, Lord Viscount Say and Seale, Mr. of his Majesties Court of Wards and Liveries, and one of his Majesties most honourable Privy Councell, spoken in Parliament. The first upon the bill against bishops. The other a declaration of himselfe touching the liturgie.</title>
+            <author>Saye and Sele, William Fiennes, Viscount, 1582-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94228</idno>
+            <idno type="STC">Wing S796</idno>
+            <idno type="STC">Thomason E198_16</idno>
+            <idno type="STC">Thomason E198_17</idno>
+            <idno type="STC">ESTC R8713</idno>
+            <idno type="EEBO-CITATION">99873378</idno>
+            <idno type="PROQUEST">99873378</idno>
+            <idno type="VID">157489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E198[16], 35:E198[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches of the Right Honourable William, Lord Viscount Say and Seale, Mr. of his Majesties Court of Wards and Liveries, and one of his Majesties most honourable Privy Councell, spoken in Parliament. The first upon the bill against bishops. The other a declaration of himselfe touching the liturgie.</title>
+                  <author>Saye and Sele, William Fiennes, Viscount, 1582-1662.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157489:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:157489:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>TVVO SPEECHES OF THE RIGHT HONOV<g ref="char:EOLhyphen"/>RABLE <hi>WILLIAM,</hi> Lord Vicount SAY and SEALE, Mr. of his Majeſties Court of Wards and Li<g ref="char:EOLhyphen"/>veries, and one of his Majeſties moſt Honourable Privy Councell, ſpoken in Parliament.</p>
+            <p>The firſt upon the Bill againſt Biſhops.</p>
+            <p>The other a Declaration of himſelfe touching the Liturgie.</p>
+            <figure>
+               <figDesc>fleur-de-lis</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Thomas Vnder-hill.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157489:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:157489:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>A Speech of the Right Honou<g ref="char:EOLhyphen"/>nourable WILLIAM, Lord Vicount <hi>Say</hi> and <hi>Seale,</hi> one of his Majeſties moſt Honou<g ref="char:EOLhyphen"/>rable privie Councell, ſpoken in Parliament upon the Bill againſt the Biſhops.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not need to begin as high as <hi>A<g ref="char:EOLhyphen"/>dam</hi> in anſwer to what hath beene drawne downe from thence by a Bi<g ref="char:EOLhyphen"/>ſhop concerning this queſtion,<note place="margin">The Biſhop of <hi>Lincolne.</hi>
+               </note> for that which is pertinent to it will onely be what concernes Biſhops as they are miniſters of the Goſpell, what was before (being of another nature) can give no rule to this. The queſtion that will lye before your Lordſhips in paſſing of this bill is not whether Epiſcopacie (I meane this Hierarchicall Epiſco<g ref="char:EOLhyphen"/>pacy which the world now holds forth to us) ſhall be ta<g ref="char:EOLhyphen"/>ken away Roote and branch, but whether thoſe exuberant and ſuperfluous branches, which draw away the ſap from the tree, and divert it from the right and proper uſe where<g ref="char:EOLhyphen"/>by it becomes unfruitfull, ſhall be cut off, as they uſe to pluck up ſuckers from the Roote. The queſtion will be no more but this, whether Biſhops ſhall be reduced to what they
+<pb n="2" facs="tcp:157489:3"/>
+               <!-- PDF PAGE 39 -->were in their firſt advancement over the presbyters (which although it were but a humane device for the Remedie of Sciſme, yet were they in thoſe times leaſt offenſive) or con<g ref="char:EOLhyphen"/>tinue ſtill with the addition of ſuch things, as their owne ambition, and the ignorance and ſuperſtitions of ſucceeding times did adde thereunto, and which are now continued for ſeverall politicke erds, things heterogencall and incon<g ref="char:EOLhyphen"/>ſiſtent with their calling and function as they are miniſters of the Goſpell, and thereupon ſuch, a ever have beene, and ever will be, hurtfull to themſelves, and make them hurtfull to others, in the times and places where they are conti<g ref="char:EOLhyphen"/>nued. And theſe things alone this bill takes away, that is their offices and places in Courts of Iudicature, and their imployments by Obligation of office in civill affaires: I ſhall inſiſt upon this, to ſhew firſt how theſe things hurt themſelves, and ſecondly, how they have made, and ever will make them hurtfull to others; They themſelves are hurt thereby in their conſciences, and in their credits; In their conſciences, by ſeeking or admitting things which are in<g ref="char:EOLhyphen"/>conſiſtent with that function and office which God hath ſet them apart unto. They are ſeparated unto a ſpeciall worke, and men muſt take heed how they miſ-imploy things dedicated and ſet apart to the ſervice of God; They are called to preach the Goſpell, and ſet apart to the worke of the miniſtery, and the Apoſtle ſaith, who is ſufficient for theſe things, ſhewing that this requireth the whole man, and all is too little, therefore for them to ſeeke, or take other offices which ſhall require and tye them to imploy their time and ſtudies in the affaires of this world, will draw a guilt upon them, as being inconſiſtent with that which God doth call them and ſet them apart unto. In this reſpect our Saviour hath expreſly prohibited it, telling his Apoſtles that they ſhould not Lord it over their Bre<g ref="char:EOLhyphen"/>thren, nor exerciſe Juriſdiction over them, as was vſed in civill governments among the Heathen: They were called gracious Lords, and exerciſed Juriſdiction as Lords over
+<pb n="3" facs="tcp:157489:3"/>
+               <!-- PDF PAGE 39 -->others, and ſure they might lawfully doe ſo: but to the Miniſters of the Goſpell our Saviour gives this Rule, it ſhall not be ſo done by you; If ye ſtrive for greatneſſe, he ſhall be the greateſt that is the greateſt ſervant to the reſt; therefore in another place he ſaith, He that putteth his hand to the Plow and looketh backe to the things of this world is not fit for the kingdome of God, that is the preaching of the Goſpell, as it is uſually called. To be thus withdrawne by intangling themſelves with the affaires of this life by the neceſſi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and duty of an Of<g ref="char:EOLhyphen"/>fice received from men, from th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſcharge of that Office which God hath called them unto, brings a woe upon them; Woe unto me, ſaith the Apoſtle, if I preach not the Goſpel, what doth he meane? If I preach not once a quar<g ref="char:EOLhyphen"/>ter, or once a yeare in the Kings Chappelle No he himſelfe interpreteth it; Preach the Word, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e inſtant, in ſeaſon and out of ſeaſon, rebuke, exhort, or inſtruct, with all long ſuffe<g ref="char:EOLhyphen"/>ring and doctrine: he that hath an office, muſt attend upon his office, eſpecially this of the miniſtery. The practice of the Apoſtles is anſwerable to the direction, and doctrine of our Saviour. There never was, nor will be, men of ſo great abilities and gifts as they were indued withall, yet they thought it ſo inconſiſtent with their Callings to take places of Iudicature in civill matters, and ſecular affaires and imployments upon them, that they would not admit of the care and diſtraction that a buſineſſe farre more a<g ref="char:EOLhyphen"/>greeable to their Callings, then theſe, would caſt upon them, and they give the reaſon of it, in the ſixth of the <hi>Acts.</hi> It is not reaſon that we ſhould leave the word of God and ſerve Tables. And againe, when they had appointed them to chooſe men fit for that buſineſſe, they inſtitute an office rather for taking care of the poore, then th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y by it would be diſtracted from the principall worke of their Calling, and then ſhew how they ought to imploy themſelues; But we (ſaid they) will give our ſelves continually to prayer, and to the miniſtry of the Word;
+<pb n="4" facs="tcp:157489:4"/>
+               <!-- PDF PAGE 40 -->Did the Apoſtles, men of extraordinary gifts, thinke it unreaſonable for them to be hindred from giving them<g ref="char:EOLhyphen"/>ſelves continually to p<gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hing the Word and prayer, by taking care for the <gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>les of the poore Widowes, and can the Biſhops no<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thinke it reaſonable or law<g ref="char:EOLhyphen"/>full for them to contend for fitting at Councell Ta<g ref="char:EOLhyphen"/>ble; to governe States, to turne States-men in ſtead of Church men, to ſit in the higheſt Courts of Iudica<g ref="char:EOLhyphen"/>ture, and to bee imployed in making lawes for civill polities and government? If they ſhall bee thought ſit to ſit in ſuch places, and will undertake ſuch imploy<g ref="char:EOLhyphen"/>ments, they muſt not ſit there as ignorant men, but muſt be knowing men in buſineſſes of State, and underſtand the Rules and Lawes of government, and thereby both their time and ſtudies muſt be neceſſarily diverted from that which God hath called them unto; And this ſure is much more unlawfull for them to admit of, then that which the Apoſtles rejected as a diſtraction unreaſonable for them to bee interrupted by. The do<g ref="char:EOLhyphen"/>ctrine of the Apoſtles is agreeable to their practice herein, for <hi>Paul</hi> when hee inſtructeth <hi>Timothy</hi> for the worke of the miniſtery preſſeth this argument from the example of a good ſouldier, no man that warreth in<g ref="char:EOLhyphen"/>tangleth himſelfe with the affaires of the world: So that I conclude, That which by the commandement of our Saviour, by the practice and doctrine of the Apo<g ref="char:EOLhyphen"/>ſtles, and I may adde by the Canons of ancient Coun<g ref="char:EOLhyphen"/>cels, grounded thereupon, is prohibited to the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell, and ſhewed to be ſuch a diſtraction unto them from their Callings and function, as will bring a woe upon them, and is not reaſonable for them to admit of; If they ſhall notwithſtanding intangle themſelves withall, and enter into, it will bring a guilt upon their ſoules, and hurt them in reſpect of their conſciences.</p>
+            <p>In the next place it doth blemiſh them, and ſtrike
+<pb n="5" facs="tcp:157489:4"/>
+               <!-- PDF PAGE 40 -->them in their credit, ſo farre from truth is that poſition which they deſire to poſſeſſe the world withall, that un<g ref="char:EOLhyphen"/>leſſe they may have theſe outward trappings of world<g ref="char:EOLhyphen"/>ly pompe added to the miniſtry, that Calling will grow into contempt, and bee deſpiſed. The truth is, theſe things caſt contempt upon them in the eyes of men. They gaine them cappe and courteſie, but they have caſt them out of the conſciences of men; and the reaſon is this, every thing is eſteemed as it is eminent in its owne proper excellencie; the eye in ſeeing, not in hearing; the eare in hearing, not in ſpeaking; The one would bee rather monſtrous then comely, the other is ever acceptable being proper; ſo is it with them, their proper excellency is ſpirituall, the denyall of the world with the pompe and preferments, and imployments thereof, this they ſhould teach and practiſe, but when they contrary hereunto ſeeke after a worldly excel<g ref="char:EOLhyphen"/>lency like the great men of the world, and to rule and dominere as they doe contrary to our Saviours pre<g ref="char:EOLhyphen"/>cept, <hi>Vos autem non ſic,</hi> but it ſhall not bee ſo amongſt you, in ſtead of honour and eſteeme, they have brought upon themſelves in the hearts of the people that con<g ref="char:EOLhyphen"/>tempt and <hi>odium</hi> which they now lye under, and that juſtly and neceſſarily, becauſe the world ſeeth that they preferre a worldly excellency, and runne after it, and contend for it, before their owne, which being ſpirituall is farre more excellent, and which being proper to the Miniſtrie is that alone which will put a value and e<g ref="char:EOLhyphen"/>ſteeme upon them that are of that Calling. As theſe things hurt themſelves in their conſciences and credit, ſo have they, and, if they bee continued, ſtill will make them hurtfull to others; The reaſon is, becauſe they breake out of their owne orbe, and move irregularly, there is a curſe upon their leaving of their owne place. The heavenly bodies while they keepe within their owne ſpheres give light and comfort to the world,
+<pb n="6" facs="tcp:157489:5"/>
+               <!-- PDF PAGE 41 -->But if they ſhould breake out, and fall from their regu<g ref="char:EOLhyphen"/>lar and proper motions, they would ſet the world on fire: ſo have theſe done while they kept themſelves to the worke of their miniſtery alone, and gave themſelves to prayer, and the miniſtry of the Word, according to the example of the Apoſties, the world received the greateſt benefits by them, they were the light, and life thereof; But when their ambition caſt them downe like ſtarres from heaven to earth, and they did grow once to be advanced above their brethren, I doe appeale to all who have beene verſed in the ancient Eccleſiaſticall ſto<g ref="char:EOLhyphen"/>ries, or moderne Hiſtories, whether they have not beene the common incendiaries of the Chriſtian world, never ceaſing from contention one with another about the precedency of their Sees, and Churches, Excommunica<g ref="char:EOLhyphen"/>ting one another, drawing Princes to bee parties with them, and thereby caſting them into bloody warres. Their ambition, and intermedling with ſecular affaires and State buſineſſe, hath beene the cauſe of ſhedding more Chriſtian blood then any thing elſe in the Chriſti<g ref="char:EOLhyphen"/>an world, and this no man can deny that is verſed in Hiſtory; But we need not goe out of our owne King<g ref="char:EOLhyphen"/>dome for examples of their inſolency and cruelty; when they had a dependancy upon the Pope, and any footing thereby out of the Land, there were never any that car<g ref="char:EOLhyphen"/>ryed themſelves with ſo much ſcorne and inſlencie to<g ref="char:EOLhyphen"/>wards the Princes of this Kingdome, as they have done. Two of them the Biſhop that laſt ſpake hath named,<note place="margin">Lincolne.</note> but inſtances of many more may bee given whereof there would bee no end. Although the Pope bee caſt off, yet now there is another inconvenience no leſſe prejudiciall to the Kingdome by their ſitting in this Houſe, and that is, they have ſuch an abſolute dependancy upon the King, that they ſit not here as freemen. That which is requi<g ref="char:EOLhyphen"/>ſite to freedome, is to be void of hopes and feares; Hee that can lay downe theſe is a free-man, and will be ſo in
+<pb n="7" facs="tcp:157489:5"/>
+               <!-- PDF PAGE 41 -->this houſe; But for the Biſhops as the caſe ſtands with them, it is not likely they will lay aſide their hopes, greater Biſhopricks being ſtill in expectancy: and for their feares they cannot lay them downe, ſince their pla<g ref="char:EOLhyphen"/>ces and ſeats in Parliament are not inveſted in them by blood, and ſo hereditary, but by annexation of a Barony to their office, and depending upon that office, ſo that they may be deprived of their office, and thereby of their places, at the Kings pleaſure, they doe not ſo much as ſit here <hi>dum bene ſe geſſerint,</hi> as the Judges now by your Lordſhips petition to the King have their places granted them, but at will and pleaſure, and therefore as they were all excluded by <hi>Edw.</hi> the firſt as long as hee pleaſed, and Lawes made <hi>excluſo Clero,</hi> ſo may they be by any King at his pleaſure in like manner, they muſt needs therefore bee in an abſolute dependencie upon the Crowne, and thereby at devotion for their votes, which how preju<g ref="char:EOLhyphen"/>diciall it hath beene, and will be, to this houſe I need not ſay.</p>
+            <p>I have now ſhewed your Lordſhips how hurtfull to themſelves and others theſe things which the bill would take away have beene, I will onely anſwer ſome Obje<g ref="char:EOLhyphen"/>ctions which I have met withall, and then crave your par<g ref="char:EOLhyphen"/>don for troubling you ſo long.</p>
+            <p>
+               <label>Object.</label>
+               <list>
+                  <item>1. It will be ſaid that they have beene very antient.</item>
+                  <item>2. That they are eſtabliſhed by law.</item>
+                  <item>3. That it may be an infringement to the priviled<g ref="char:EOLhyphen"/>ges of the Houſe of Peeres, for the houſe of Commons to ſend up a Bill to take away ſome of their members.</item>
+               </list>
+            </p>
+            <p>To theſe three objections the anſwer will be eaſie.</p>
+            <list>
+               <item>1. To the firſt, Antiquity is no good plea, for that which is by experience found to be hurtfull, the longer it hath done hurt the more cauſe there is now to re<g ref="char:EOLhyphen"/>move it, that it may doe no more, beſides other irregula<g ref="char:EOLhyphen"/>rities are as antient which have beene thought fit to bee
+<pb n="8" facs="tcp:157489:6"/>
+                  <!-- PDF PAGE 42 -->redreſſed, and this is not ſo antient, but that it may tru<g ref="char:EOLhyphen"/>ly be ſaid, <hi>Non fuit ſie ab initio.</hi>
+               </item>
+               <item>2. For being eſtabliſhed by Law, the law-makers have the ſame power, and the ſame charge, to alter old lawes inconvenient, as to make new that are ne<g ref="char:EOLhyphen"/>ceſſary.</item>
+               <item>3. For priviledge of the Houſe it can be no breach of it, for either eſtate may propoſe to other by way of bill what they conceive to bee for publicke good, and they have power reſpectively of accepting or re<g ref="char:EOLhyphen"/>fuſing.</item>
+            </list>
+            <p>There are two other Objections which may ſeeme to have more force, but they will receive ſatisfactory an<g ref="char:EOLhyphen"/>ſwers.</p>
+            <p>The one is, that if they may remove Biſhops, they may aſwell next time remove Barons and Earles: for anſwer.</p>
+            <p>The Reaſon is not the ſame, the one ſitting by an Ho<g ref="char:EOLhyphen"/>nour inveſted in their blood, and hereditary, which though it be in the King to grant alone, yet being once granted he cannot take away; the other ſitting by a Ba<g ref="char:EOLhyphen"/>rony depending upon an Office which may bee taken a<g ref="char:EOLhyphen"/>way, for if they be deprived of their office they ſit not.</p>
+            <p n="2">2. Their ſitting is not ſo eſſentiall, for Lawes have beene, and may be made, they being all excluded, but it can never be ſhewed, that ever there were Lawes made by the King, and them, the Lords and Earles excluded.</p>
+            <p>
+               <label>Object.</label> The other objection is this, that this Bill alters the foundation of this houſe, and innovations which ſhake foundations are dangerous.</p>
+            <p>
+               <label>Anſw.</label> I anſwer firſt, that if there ſhould bee an error in the foundation, when it ſhall be found, and the maſter buil<g ref="char:EOLhyphen"/>ders be met together, they may, nay, they ought rather to amend it, then to ſuffer it to runne on ſtill, to the pre<g ref="char:EOLhyphen"/>judice and danger of the whole ſtructure.</p>
+            <p n="2">2. Secondly, I ſay this is not fundamentall to this
+<pb n="9" facs="tcp:157489:6"/>
+               <!-- PDF PAGE 42 -->Houſe, for it hath ſtood without them, and done all tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appertaines to the power thereof without them, yea, they being wholly excluded, and that which hath beene done for a time at the Kings pleaſure may be done with as little danger for a longer time, and when it ap<g ref="char:EOLhyphen"/>peares to be fit and for publick good, not onely may, but ought to be done altogether by the ſu<g ref="char:EOLhyphen"/>preme Power.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
